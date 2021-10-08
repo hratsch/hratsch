@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hratsch
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ... TeamTreeHouse.com
+- 💞️ I’m looking to collaborate on ... theodinproject.com
 - 📫 How to reach me ... hugh.ratsch.18@gmail.com
 
 <!---
