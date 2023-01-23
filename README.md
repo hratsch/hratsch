@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hratsch
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ... theodinproject.com
+- 👀 I’m interested in ... Cyber Security
+- 🌱 I’m currently learning ... Pen Testing
 - 📫 How to reach me ... hugh.ratsch.18@gmail.com
 
 <!---
