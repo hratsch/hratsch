@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hratsch
-- 👀 I’m interested in ... Cyber Security
-- 🌱 I’m currently learning ... Pen Testing
+- 👀 I’m interested in ... Software Engineering & Cyber Security
+- 🌱 I’m currently learning ... Web Developement
 - 📫 How to reach me ... hugh.ratsch.18@gmail.com
 
 <!---
